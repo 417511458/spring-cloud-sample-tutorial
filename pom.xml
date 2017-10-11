@@ -7,6 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>spring-cloud-sample-tutorial-register</module>
+    <module>spring-cloud-sample-tutorial-producer</module>
+    <module>spring-cloud-sample-tutorial-producer</module>
   </modules>
   <packaging>pom</packaging>
 
