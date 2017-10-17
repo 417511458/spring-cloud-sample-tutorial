@@ -9,6 +9,7 @@
     <module>spring-cloud-sample-tutorial-register</module>
     <module>spring-cloud-sample-tutorial-producer</module>
     <module>spring-cloud-sample-tutorial-producer</module>
+      <module>spring-cloud-sample-tutorial-consumer</module>
   </modules>
   <packaging>pom</packaging>
 
